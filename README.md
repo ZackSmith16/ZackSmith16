@@ -12,7 +12,7 @@ After working for multiple digital marketing agencies, I became the team lead fo
 
 ### [Marketing Analytics Pipeline](https://github.com/ZackSmith16/marketing-analytics-pipeline)
 A rebuild of the agency reporting stack I maintained: Google Ads, Meta, Shopify and GA4 → staging → marts → per-client Looker Studio reports.
-- `BigQuery SQL` `Dataform` `Python` `Looker Studio` · [Live report](https://datastudio.google.com/reporting/9865b1f6-458b-4273-a118-6fecac89461d)
+- `BigQuery SQL` `Dataform` `Python` `Looker Studio` · [Live dashboard](https://datastudio.google.com/reporting/9865b1f6-458b-4273-a118-6fecac89461d)
 
 ### [Instantly Outbound Analytics](https://github.com/ZackSmith16/instantly-outbound-analytics)
 An automated daily pipeline for a live cold-email program: Instantly API → BigQuery → Dataform → Looker Studio, plus a Cloud Run webhook for real-time events.
