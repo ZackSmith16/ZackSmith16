@@ -1,4 +1,4 @@
-# Hi, I'm Zack Smith
+# Zack Smith
 
 **I have a digital marketing background and specialize in marketing automation, programming, data warehousing and analytics.**
 
